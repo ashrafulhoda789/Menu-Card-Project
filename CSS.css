@@ -1,0 +1,64 @@
+body{
+    background-image: url("https://assets.epicurious.com/photos/63e54a0664e14d52936a2937/16:9/w_4203,h_2364,c_limit/CoffeeSubscriptions_IG_V1_030922_6350_V1_final.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.box{
+    
+    background-color: blanchedalmond;
+    height: 700px;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
+
+hr{
+    
+    background-color: brown;
+    height: 4px;
+    width: 95%;
+}
+h2{
+    text-align: center;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.dish-menu{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+}
+.dish{
+    justify-content:space-between;
+    display: flex;
+}
+.dish-name{
+    margin-left: 20px;
+}
+.dish-price{
+    margin-right: 20px;
+}
+.link{
+    text-align: center;
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: burlywood;
+}
+a:visited{
+    color: rgb(94, 105, 105);
+}
